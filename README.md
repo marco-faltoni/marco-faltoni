@@ -1,6 +1,6 @@
 ### Hello everyone! 🤟🏼
 
-I'm Marco, a passionate Web Developer & Industrial Designer from Italy. 👦🏼💻 🇮🇹
+I'm Marco, a passionate Web Developer & Designer from Italy. 👦🏼💻 🇮🇹
 
 There you'll find all the public stuffs on which I've worked on my developing journey about languages, frameworks and libraries. 📚
 
