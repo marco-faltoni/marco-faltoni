@@ -9,4 +9,4 @@ I'm currently practising with Javascprit libraries and all the magic features fo
 I'm new in this world! Please be Kind 👏🏻
 
 You can find me on LinkedIn 👇🏻
-#### <a target="_blank" href="https://www.linkedin.com/in/marcofaltoni/"> LinkdIn Contact </a>
+#### <a target="_blank" href="https://www.linkedin.com/in/marcofaltoni/"> LinkedIn Contact </a>
